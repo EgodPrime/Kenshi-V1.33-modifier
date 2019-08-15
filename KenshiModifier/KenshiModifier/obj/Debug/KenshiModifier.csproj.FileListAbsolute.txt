@@ -1,0 +1,10 @@
+E:\EgodFiles\Scripts\CsharpSpace\KenshiModifier\KenshiModifier\bin\Debug\KenshiModifier.exe.config
+E:\EgodFiles\Scripts\CsharpSpace\KenshiModifier\KenshiModifier\bin\Debug\KenshiModifier.exe
+E:\EgodFiles\Scripts\CsharpSpace\KenshiModifier\KenshiModifier\bin\Debug\KenshiModifier.pdb
+E:\EgodFiles\Scripts\CsharpSpace\KenshiModifier\KenshiModifier\obj\Debug\KenshiModifier.csprojAssemblyReference.cache
+E:\EgodFiles\Scripts\CsharpSpace\KenshiModifier\KenshiModifier\obj\Debug\KenshiModifier.Form1.resources
+E:\EgodFiles\Scripts\CsharpSpace\KenshiModifier\KenshiModifier\obj\Debug\KenshiModifier.Properties.Resources.resources
+E:\EgodFiles\Scripts\CsharpSpace\KenshiModifier\KenshiModifier\obj\Debug\KenshiModifier.csproj.GenerateResource.cache
+E:\EgodFiles\Scripts\CsharpSpace\KenshiModifier\KenshiModifier\obj\Debug\KenshiModifier.csproj.CoreCompileInputs.cache
+E:\EgodFiles\Scripts\CsharpSpace\KenshiModifier\KenshiModifier\obj\Debug\KenshiModifier.exe
+E:\EgodFiles\Scripts\CsharpSpace\KenshiModifier\KenshiModifier\obj\Debug\KenshiModifier.pdb
